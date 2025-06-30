@@ -19,3 +19,4 @@
 - React + Vite + TypeScript
 - Tailwind CSS
 - React Router
+- Redux
